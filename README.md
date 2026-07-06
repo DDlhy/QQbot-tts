@@ -126,4 +126,4 @@ qq-voice-bot/
 
 ## License
 
-MIT
+Creative Commons Zero v1.0 Universal
