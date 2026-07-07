@@ -118,7 +118,6 @@ pause
 qq-voice-bot/
 ├── qq-voice-bot.py          # 主程序
 ├── config.example.py        # 配置模板（复制为config.py使用）
-├── 洛天依.md                # AI角色设定（可选）
 ├── 启动QQ语音机器人.bat      # Windows启动脚本
 ├── README.md                # 本文件
 └── qq-voice-bot.log         # 运行日志（自动生成）
